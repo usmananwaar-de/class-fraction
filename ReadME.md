@@ -11,7 +11,7 @@ To use the Fraction class, simply download or clone the project from the GitHub 
 - To use the Fraction class, simply import it into your Python script:
 
 ```python
-from fraction import Fraction
+from fractions import Fraction
 ```
 
 - Then you can create new Fraction objects by calling the constructor:
